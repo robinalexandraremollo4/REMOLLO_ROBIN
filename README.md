@@ -103,15 +103,12 @@ selected_cars.shape
 ```
 Thank you for reading!
 
-To see the main python program for Programming Assignment 2, click this link [https://github.com/robinalexandraremollo4/REMOLLO_ALEX].
+To see the main python program for Programming Assignment 2, click this link [https://github.com/robinalexandraremollo4/REMOLLO_ROBIN].
 
 READ ME FILE VERSION HISTORY
 
-August 26, 2026 - Coding on Google Colab, finished A. Reproducible Normalization Problem.
-
-September 1, 2026 - Finishing of B. Cubes Divisible by 4 Problem and C. Above-Mean Squares Problem.
-
-September 2, 2026 - Finalization of code structures and flow of README file. Creation of a cohesive Github repository for all requirements.
+September 3, 2026 - Coding on Jupyter Notebook and finishing of Programming Problems.
+September 9, 2026 - Finalization of code structures and flow of README file. Creation of a cohesive Github repository for all requirements.
 
 
 
