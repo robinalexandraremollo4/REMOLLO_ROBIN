@@ -77,6 +77,7 @@ pontiac
 Instructions:
 1. Create a DataFrame named `selected_cars` containing only the records for three models: `Datsun 710`, `Lotus Europa`, and `Ferrari Dino`.
 2. For these records, retain only `Model`, `mpg`, `cyl`, `hp`, and `gear`. Select the rows by their model values rather than by row numbers. Display `selected_cars` and its shape.
+   
 **Requirement**: The final DataFrame must contain exactly three rows and five columns.
 
 The following methods were used in this problem:
